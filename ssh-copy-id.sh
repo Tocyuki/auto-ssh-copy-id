@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOSTS="hosts.txt"
+HOSTS="hosts"
 USER="root"
 PASSWORD="password"
 
